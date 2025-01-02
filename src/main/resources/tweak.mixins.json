@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.kongchengli.tweak.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "server": [
+    "ShulkerBoxItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
